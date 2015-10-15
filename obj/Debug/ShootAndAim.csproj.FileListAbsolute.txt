@@ -1,0 +1,10 @@
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.csprojResolveAssemblyReference.cache
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.Form1.resources
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.Properties.Resources.resources
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.UCPersonagem.resources
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.csproj.GenerateResource.Cache
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\bin\Debug\ShootAndAim.exe.config
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\bin\Debug\ShootAndAim.exe
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\bin\Debug\ShootAndAim.pdb
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.exe
+C:\Users\enzo\Desktop\5 semestre\Topicos especiais\Aula1\ShootAndAim\obj\Debug\ShootAndAim.pdb
